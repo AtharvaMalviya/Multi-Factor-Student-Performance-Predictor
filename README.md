@@ -15,7 +15,7 @@ This project uses Multiple Linear Regression to predict student performance base
 - Scikit-learn
 - Matplotlib
 
-## ▶️ How to Run
+## How to Run
 
 1. Install Python on your system.
 
