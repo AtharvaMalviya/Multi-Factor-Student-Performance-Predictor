@@ -15,15 +15,23 @@ This project uses Multiple Linear Regression to predict student performance base
 - Scikit-learn
 - Matplotlib
 
-## How to Run
+## ▶️ How to Run
 
-1. Install dependencies:
-   pip install -r requirements.txt
+1. Install Python on your system.
 
-2. Run the program:
-   python main.py
+2. Make sure the required libraries are installed:
+   pip install numpy scikit-learn matplotlib
 
-3. Enter inputs when prompted
+3. Copy the code from `main.py`.
+
+4. Paste and run it in any Python environment such as:
+   - Jupyter Notebook  
+   - VS Code  
+   - Google Colab  
+
+5. Enter the input values when prompted.
+
+6. View the predicted score and graph output.
 
 ## Output
 - Predicted exam score
